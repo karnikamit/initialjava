@@ -1,2 +1,1 @@
-# initialjava
-Learning Java
+# Learning Java
